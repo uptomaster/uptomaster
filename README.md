@@ -70,6 +70,7 @@
 
 ## 📊 GitHub Stats
 
-![LeeNamHyuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&include_all_commits=true&theme=transparent)
-
+<div align="center">
+  <img src="https://github-readme-stats-seven-mu-21.vercel.app/api?username=uptomaster&show_icons=true&include_all_commits=true&theme=transparent" />
+</div>
 
