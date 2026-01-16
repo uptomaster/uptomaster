@@ -69,7 +69,8 @@
 
 <br/>
 
-github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true
+https://github-readme-stats.vercel.app/api?username=uptomaster)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
+
 
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:2c5364,100:0f2027&section=footer"/>
