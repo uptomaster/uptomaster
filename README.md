@@ -118,6 +118,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=radical&v=1)
 
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=default)
 
 
 <p align="center">
