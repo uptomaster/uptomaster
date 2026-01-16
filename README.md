@@ -69,17 +69,17 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
 ---
 ## 🛠 Tech Stack
 
-### Backend · Server · Infra
+## 🛠 Tech Stack
+
+### Backend · Server
 <p>
   <img src="https://img.shields.io/badge/Java-2563EB?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-0B5ED7?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <br/>
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-475569?style=flat"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat&logo=node.js&logoColor=white"/>
 </p>
-
 
 ### Frontend
 <p>
@@ -90,40 +90,27 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-0B4F6C?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-7C2D12?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-0B4F6C?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-### OS · Virtualization · Network
+### OS · Infra
 <p>
   <img src="https://img.shields.io/badge/Rocky%20Linux-065F46?style=flat"/>
-  <img src="https://img.shields.io/badge/CentOS%207-1E3A8A?style=flat&logo=centos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-334155?style=flat&logo=kali-linux&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/VMware%20Workstation-4B5563?style=flat"/>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0284C7?style=flat"/>
-  <img src="https://img.shields.io/badge/GNS3-1D4ED8?style=flat"/>
+  <img src="https://img.shields.io/badge/CentOS%207-1E3A8A?style=flat&logo=centos&logoColor=white"/>
 </p>
 
-### Security
+### Deployment · Tools
 <p>
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-111827?style=flat"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-F97316?style=flat"/>
-</p>
-
-### Deployment · Collaboration · Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-1B1F23?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-111827?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Figma-2C2C2C?style=flat&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-111827?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-0D9488?style=flat&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-22C55E?style=flat"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-1B1F23?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-111827?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-2C2C2C?style=flat&logo=figma&logoColor=F24E1E"/>
 </p>
 
 ---
