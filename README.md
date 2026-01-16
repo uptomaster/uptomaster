@@ -86,12 +86,4 @@
             &theme=tokyonight
             &bg_color=00000000
             &hide_border=true" />
-
-  <img height="185"
-       src="https://github-readme-stats-seven-mu-21.vercel.app/api/top-langs/
-            ?username=uptomaster
-            &layout=compact
-            &theme=tokyonight
-            &bg_color=00000000
-            &hide_border=true" />
 </div>
