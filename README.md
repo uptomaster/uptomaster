@@ -115,7 +115,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efforthye&show_icons=true&theme=dracula&cache_seconds=1800)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efforthye&layout=compact&theme=dracula&cache_seconds=1800)
 
