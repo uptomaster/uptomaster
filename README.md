@@ -74,3 +74,24 @@
   <img src="https://github-readme-stats-seven-mu-21.vercel.app/api?username=uptomaster&show_icons=true&hide_rank=true&include_all_commits=true&theme=transparent" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="185"
+       src="https://github-readme-stats-seven-mu-21.vercel.app/api
+            ?username=uptomaster
+            &show_icons=true
+            &include_all_commits=true
+            &rank_icon=percentile
+            &theme=tokyonight
+            &bg_color=00000000
+            &hide_border=true" />
+
+  <img height="185"
+       src="https://github-readme-stats-seven-mu-21.vercel.app/api/top-langs/
+            ?username=uptomaster
+            &layout=compact
+            &theme=tokyonight
+            &bg_color=00000000
+            &hide_border=true" />
+</div>
