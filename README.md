@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:064E3B,50:065F46,100:047857&text=NamHyuk%20Lee&fontColor=ffffff&fontSize=78&fontAlignY=40"/>
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E3A8A,50:2563EB,100:DC2626&text=NamHyuk%20Lee&height=200&fontSize=90&fontColor=ffffff"/>
 
 <br/>
 
