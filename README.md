@@ -113,12 +113,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-uptomaster1255-wmpd1r0g.leapcell.dev)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=radical&v=1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=default)
 
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=default)
 
 
 <p align="center">
