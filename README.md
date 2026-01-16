@@ -77,13 +77,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185"
-       src="https://github-readme-stats-seven-mu-21.vercel.app/api
-            ?username=uptomaster
-            &show_icons=true
-            &include_all_commits=true
-            &rank_icon=percentile
-            &theme=tokyonight
-            &bg_color=00000000
-            &hide_border=true" />
+  <img height="185" src="https://github-readme-stats-seven-mu-21.vercel.app/api?username=uptomaster&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </div>
+
