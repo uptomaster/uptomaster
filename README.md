@@ -138,10 +138,19 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
 
 ---
 
-## 📌 Interests
+---
 
-- 클라우드·VM 기반 인프라
-- 운영 안정성과 장애 지점 분석
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efforthye&show_icons=true&theme=dracula&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efforthye&layout=compact&theme=dracula&cache_seconds=1800)
+
+</div>
+
+---
 - 보안과 신뢰성을 고려한 시스템 설계
 - 네트워크·서버 중심 아키텍처
 
