@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=NamHyuk%20Lee&fontColor=ffffff&fontSize=80&fontAlignY=38&desc=ProofyLife%20·%20Record%20Everything&descAlignY=58&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:f0f9ff,50:e0f2fe,100:bae6fd&text=NamHyuk%20Lee&fontColor=1e293b&fontSize=78&fontAlignY=40"/>
+
 
 <br/>
 
