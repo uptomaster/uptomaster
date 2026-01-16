@@ -61,6 +61,9 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=dracula)
+
+
 <!-- ===================== GITHUB STATS ===================== -->
 ### 📊 GitHub Activity
 
