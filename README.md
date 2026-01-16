@@ -61,19 +61,18 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=dracula)
-
-
 <!-- ===================== GITHUB STATS ===================== -->
 ### 📊 GitHub Activity
 
-<img src="https://github.com/kyu0918/github-stats-transparent/blob/output/generated/overview.svg" />
-<img src="https://github.com/kyu0918/github-stats-transparent/blob/output/generated/languages.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&count_private=true&hide=stars,contribs&theme=radical" />
 
 <br/>
 
-https://github-readme-stats.vercel.app/api?username=uptomaster)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
+### 💻 Most Used Languages
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=radical" />
+
+<br/>
 
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:2c5364,100:0f2027&section=footer"/>
