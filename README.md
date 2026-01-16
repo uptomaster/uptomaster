@@ -71,14 +71,15 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
 
 ### Backend · Server · Infra
 <p>
-  <img src="https://img.shields.io/badge/Java-1F2937?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-374151?style=flat"/>
-  <img src="https://img.shields.io/badge/PHP-4B5563?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-065F46?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-2563EB?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0B5ED7?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/REST%20API-0F766E?style=flat"/>
-  <img src="https://img.shields.io/badge/JWT-111827?style=flat"/>
+  <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-475569?style=flat"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-22C55E?style=flat&logo=node.js&logoColor=white"/>
 </p>
+
 
 ### Frontend
 <p>
