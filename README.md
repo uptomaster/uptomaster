@@ -116,7 +116,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=default)
 
 </div>
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)
 
 <p align="center">
 꾸준히 기록하고, 구조적으로 이해하며 성장하고 있습니다.
