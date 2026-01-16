@@ -65,5 +65,15 @@
 <p align="center">
 꾸준히 기록하고, 구조적으로 이해하며 성장하고 있습니다.
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uptomaster)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact)
+
+</div>
+
