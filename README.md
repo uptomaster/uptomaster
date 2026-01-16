@@ -112,8 +112,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-https://github-readme-stats-uptomaster1255-wmpd1r0g.leapcell.dev
-![GitHub Stats](https://github-readme-stats-uptomaster1255-wmpd1r0g.leapcell.dev/api?username=uptomaster&show_icons=true&theme=radical&v=1)
+
+![GitHub Stats](https://github-readme-stats-uptomaster1255-wmpd1r0g.leapcell.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=radical&v=1)
 
