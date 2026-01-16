@@ -67,16 +67,15 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
   → 개발·서버·보안 학습 기록
 
 ---
-
 ## 🛠 Tech Stack
 
-### Backend / Server
+### Backend · Server · Infra
 <p>
   <img src="https://img.shields.io/badge/Java-1F2937?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-374151?style=flat"/>
   <img src="https://img.shields.io/badge/PHP-4B5563?style=flat&logo=php&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/Node.js-065F46?style=flat&logo=node.js&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/REST%20API-0F766E?style=flat"/>
   <img src="https://img.shields.io/badge/JWT-111827?style=flat"/>
 </p>
@@ -95,20 +94,13 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
   <img src="https://img.shields.io/badge/Oracle-7C2D12?style=flat&logo=oracle&logoColor=white"/>
 </p>
 
-### OS / Linux
+### OS · Virtualization · Network
 <p>
   <img src="https://img.shields.io/badge/Rocky%20Linux-065F46?style=flat"/>
   <img src="https://img.shields.io/badge/CentOS%207-1E3A8A?style=flat&logo=centos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-334155?style=flat&logo=kali-linux&logoColor=white"/>
-</p>
-
-### Virtualization
-<p>
+  <br/>
   <img src="https://img.shields.io/badge/VMware%20Workstation-4B5563?style=flat"/>
-</p>
-
-### Network / Simulation
-<p>
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0284C7?style=flat"/>
   <img src="https://img.shields.io/badge/GNS3-1D4ED8?style=flat"/>
 </p>
@@ -119,8 +111,15 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
   <img src="https://img.shields.io/badge/Burp%20Suite-F97316?style=flat"/>
 </p>
 
-### Deployment / Hosting
+### Deployment · Collaboration · Tools
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-1B1F23?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-111827?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-2C2C2C?style=flat&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-111827?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-0D9488?style=flat&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-22C55E?style=flat"/>
@@ -135,9 +134,9 @@ OWASP Top 10 기준의 보안 점검을 수행해 왔습니다.
   <img src="https://img.shields.io/badge/Network%20Administrator%20Level%202-374151?style=flat"/>
   <br/>
   <img src="https://img.shields.io/badge/Microsoft%20AI--900-2563EB?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20DP--900-2563EB?style=flat&logo=microsoft&logoColor=white"/>
 </p>
 
----
 
 ---
 
