@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E3A8A,50:2563EB,100:DC2626&text=NamHyuk%20Lee&height=200&fontSize=90&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=170&color=0:1E3A8A,50:2563EB,100:DC2626&text=NamHyuk%20Lee&fontSize=80&fontColor=ffffff"/>
 
 <br/>
 
@@ -59,19 +59,6 @@
 | Certificate |
 | --- |
 | <img src="https://img.shields.io/badge/SQLD-1D4ED8?style=flat-square"/> <img src="https://img.shields.io/badge/Linux%20Master%20Level%202-047857?style=flat-square"/> <img src="https://img.shields.io/badge/Network%20Administrator%20Level%202-374151?style=flat-square"/> <br> <img src="https://img.shields.io/badge/Microsoft%20AI--900-2563EB?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20DP--900-2563EB?style=flat-square&logo=microsoft&logoColor=white"/> |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=default)
-
-</div>
-
----
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)
 
 ---
 
