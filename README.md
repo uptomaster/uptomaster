@@ -52,8 +52,6 @@
 ---
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### Backend · Server
 <p>
   <img src="https://img.shields.io/badge/Java-2563EB?style=flat&logo=java&logoColor=white"/>
@@ -114,8 +112,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=radical&v=1)
+https://github-readme-stats-uptomaster1255-wmpd1r0g.leapcell.dev
+![GitHub Stats](https://github-readme-stats-uptomaster1255-wmpd1r0g.leapcell.dev/api?username=uptomaster&show_icons=true&theme=radical&v=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=radical&v=1)
 
