@@ -113,13 +113,16 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 ![uptomaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efforthye&layout=compact&theme=dracula&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=radical)
 
 </div>
+
 
 ---
 - 보안과 신뢰성을 고려한 시스템 설계
