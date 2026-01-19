@@ -55,14 +55,8 @@
 <img src="https://img.shields.io/badge/Netlify-0D9488?style=flat-square&logo=netlify&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Render-22C55E?style=flat-square"/> 
 | 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-1B1F23?style=flat-square&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Notion-111827?style=flat-square&logo=notion&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Figma-DC2626?style=flat-square&logo=figma&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>  
-<img src="https://img.shields.io/badge/PuTTY-00A3A3?style=flat-square"/>  
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>  
-<img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-1B1F23?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-111827?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-DC2626?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PuTTY-00A3A3?style=flat-square"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/>  
 |
 
 ---
