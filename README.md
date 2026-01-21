@@ -31,7 +31,7 @@
 | Service | Description |
 | --- | --- |
 | **ProofyLife** | https://proofylife.com <br> 개인 기록·포트폴리오 기록 공간 |
-| **FutureBox** | https://timecapsule-beta.vercel.app <br> 미래의 나에게 보내는 타임캡슐 서비스 |
+| **FutureBox** | https://futurebox-beta.vercel.app/ <br> 미래의 나에게 보내는 타임캡슐 서비스 |
 | **Bookmarker** | https://bookmarker929.dothome.co.kr/bookmarker/ <br> 로그인 기반 개인 북마크 관리 웹 서비스 (PHP / MySQL) |
 | **Portfolio Site** | https://uptomaster.github.io/Portfolio/ <br> 프로젝트·인프라·보안 경험 정리 |
 | **FortuneBear** | https://fortunebear.vercel.app/ <br> Node.js 기반 오늘의 운세 실험 프로젝트 |
