@@ -61,7 +61,7 @@
 
 | Certificate |
 | --- |
-| <img src="https://img.shields.io/badge/SQLD-1D4ED8?style=flat-square"/> <img src="https://img.shields.io/badge/Linux%20Master%20Level%202-047857?style=flat-square"/> <img src="https://img.shields.io/badge/Network%20Administrator%20Level%202-374151?style=flat-square"/> <br> <img src="https://img.shields.io/badge/Microsoft%20AI--900-2563EB?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20DP--900-2563EB?style=flat-square&logo=microsoft&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/SQLD-1D4ED8?style=flat-square"/> <img src="https://img.shields.io/badge/Linux%20Master%20Level%202-047857?style=flat-square"/> <img src="https://img.shields.io/badge/Network%20Administrator%20Level%202-374151?style=flat-square"/> <br> <img src="https://img.shields.io/badge/Microsoft%20AI--900-2563EB?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20DP--900-2563EB?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20AZ--900-2563EB?style=flat-square&logo=microsoft&logoColor=white"/> |
 
 ---
 
