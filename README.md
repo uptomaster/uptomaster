@@ -148,8 +148,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats-seven-mu-21.vercel.app/api?username=uptomaster&show_icons=true&hide_rank=false&include_all_commits=true&theme=tokyonight&border_radius=12&border_color=1E3A8A&title_color=3B82F6&icon_color=DC2626"/>
+  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=tokyonight&border_radius=12&border_color=1E3A8A&title_color=3B82F6&icon_color=DC2626&include_all_commits=true"/>username=uptomaster&show_icons=true&hide_rank=false&include_all_commits=true&theme=tokyonight&border_radius=12&border_color=1E3A8A&title_color=3B82F6&icon_color=DC2626"/>
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=tokyonight&border_radius=12&border_color=1E3A8A&title_color=3B82F6"/>
 
