@@ -30,7 +30,7 @@
 
 | Service | Description |
 | --- | --- |
-| **Portfolio Site** | https://uptomaster.github.io/Portfolio/ <br> 프로젝트·인프라·보안 경험 정리 |
+| **Portfolio Site** | https://uptomaster.github.io/Portfolio/ <br> 개발·인프라·보안 프로젝트 경험 및 이력 정리 |
 | **ProofyLife** | https://proofylife.com <br> 개인 기록·포트폴리오 기록 공간 |
 | **Tech Blog (Naver)** | https://m.blog.naver.com/hilnh__/ <br> 개발·서버·보안 학습 기록 |
 | **밥세권** | [프로젝트 PDF](docs/EAT_IT_Portfolio.pdf) <br> 소상공인 재고 최적화 및 가성비 픽업 서비스 밥세권 |
