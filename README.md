@@ -149,10 +149,7 @@
 
 <div align="center">
   
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=tokyonight&border_radius=12&border_color=1E3A8A&title_color=3B82F6&icon_color=DC2626&include_all_commits=true"/>username=uptomaster&show_icons=true&hide_rank=false&include_all_commits=true&theme=tokyonight&border_radius=12&border_color=1E3A8A&title_color=3B82F6&icon_color=DC2626"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=tokyonight&border_radius=12&border_color=1E3A8A&title_color=3B82F6"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uptomaster&theme=tokyonight"/>
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=uptomaster&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=1E3A8A&point=DC2626&area=true&hide_border=false&border_color=1E3A8A&radius=12" width="95%"/>
