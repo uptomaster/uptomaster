@@ -33,9 +33,9 @@
 | **Portfolio Site** | https://uptomaster.github.io/Portfolio/ <br> 프로젝트·인프라·보안 경험 정리 |
 | **ProofyLife** | https://proofylife.com <br> 개인 기록·포트폴리오 기록 공간 |
 | **Tech Blog (Naver)** | https://m.blog.naver.com/hilnh__/ <br> 개발·서버·보안 학습 기록 |
-| **밥세권** | [서비스 소개 PDF](docs/EAT_IT_Portfolio.pdf) <br> 소상공인 재고 최적화 및 가성비 픽업 서비스 밥세권 |
-| **YIT** | [서비스 소개 PDF](docs/sun-project.pdf) <br> 가상 대학교 '역삼공과대학교' 인프라 및 네트워크 설계 프로젝트 |
-| **팀 푸드파이터** | [서비스 소개 PDF](docs/foodfighter_presentation.pdf) <br> '밥세권' 서비스 본사&지사 인프라 재구축 및 보안컨설팅, 모의해킹 프로젝트 |
+| **밥세권** | [프로젝트 PDF](docs/EAT_IT_Portfolio.pdf) <br> 소상공인 재고 최적화 및 가성비 픽업 서비스 밥세권 |
+| **YIT** | [프로젝트 PDF](docs/sun-project.pdf) <br> 가상 대학교 '역삼공과대학교' 인프라 및 네트워크 설계 프로젝트 |
+| **팀 푸드파이터** | [프로젝트 PDF](docs/foodfighter_presentation.pdf) <br> '밥세권' 서비스 본사&지사 인프라 재구축 및 보안컨설팅, 모의해킹 프로젝트 |
 | **Bookmarker** | https://bookmarker929.dothome.co.kr/bookmarker/ <br> 로그인 기반 개인 북마크 관리 웹 서비스 (PHP / MySQL) |
 | **FutureBox** | https://futurebox-beta.vercel.app/ <br> 미래의 나에게 보내는 타임캡슐 서비스 |
 | **FortuneBear** | https://fortunebear.vercel.app/ <br> Node.js 기반 오늘의 운세 실험 프로젝트 |
