@@ -39,7 +39,9 @@
 | **Bookmarker** | https://bookmarker929.dothome.co.kr/bookmarker/ <br> 로그인 기반 개인 북마크 관리 웹 서비스 (PHP / MySQL) |
 | **FutureBox** | https://futurebox-beta.vercel.app/ <br> 미래의 나에게 보내는 타임캡슐 서비스 |
 | **FortuneBear** | https://fortunebear.vercel.app/ <br> Node.js 기반 오늘의 운세 실험 프로젝트 |
-| **IndieFilm** | https://indiefilm.vercel.app/ <br> 인디 영화 제작사 & 배우 & 장소 대여자 플랫폼 |
+| **IndieFilm(진행 중)** | https://indiefilm.vercel.app/ <br> 인디 영화 제작사 & 배우 & 장소 대여자 플랫폼 |
+| **공강픽(Pick!)(진행 중)** | 진행중입니다. <br>  |
+| **GoalChain(진행 중)** | https://goal-chain-one.vercel.app/ <br>  |
 
 
 ---
