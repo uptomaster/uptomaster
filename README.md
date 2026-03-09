@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+%26+Infrastructure+Developer;Linux+%7C+Network+%7C+Security+Engineer;운영+관점의+시스템+설계를+고민합니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Infrastructure+Developer;Linux+%7C+Network+%7C+Security+Engineer;운영+관점의+시스템+설계를+고민합니다.)](https://git.io/typing-svg)
 
 <br/>
 
