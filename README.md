@@ -34,22 +34,18 @@
 
 단순 구현이 아닌 **운영 관점의 시스템 설계와 신뢰성**을 목표로 성장하고 있습니다.
 
-```text
-💡  Focus  →  시스템 안정성 & 운영 신뢰성
-🛠️  Style  →  문제 원인부터 파악하는 엔지니어
-📖  Goal   →  풀스택 + 인프라 + 보안 통합 역량
-```
 
 </td>
 <td width="45%" align="center">
 
 ```
 ┌─────────────────────────────┐
-│   🔧 Currently Working On   │
+│    Currently Working On     │
 ├─────────────────────────────┤
-│  📌 IndieFilm Platform      │
-│  📌 공강픽 (Pick!)          │
-│  📌 GoalChain               │
+│   IndieFilm Platform        │
+│   공강픽 (Pick!)             │
+│   GoalChain                 │
+│   열흘[Ten days]             │
 └─────────────────────────────┘
 ```
 
