@@ -34,17 +34,6 @@
 </td>
 <td width="45%" align="center">
 
-```
-┌─────────────────────────────┐
-│    Currently Working On     │
-├─────────────────────────────┤
-│   IndieFilm Platform        │
-│   공강픽 (Pick!)             │
-│   GoalChain                 │
-│   열흘[Ten days]             │
-└─────────────────────────────┘
-```
-
 </td>
 </tr>
 </table>
