@@ -28,10 +28,7 @@
 
 <table>
 <tr>
-<td width="55%">
-
-
-</td>
+  
 <td width="45%" align="center">
 
 </td>
