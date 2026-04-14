@@ -121,6 +121,7 @@
   
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=uptomaster&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uptomaster&theme=tokyonight&count_private=true" />
 </p>
 <br/><br/>
 
