@@ -120,8 +120,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uptomaster&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uptomaster&layout=compact&theme=tokyonight&count_private=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=uptomaster&theme=tokyonight" />
 </p>
 <br/><br/>
 
