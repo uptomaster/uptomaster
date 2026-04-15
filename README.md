@@ -124,8 +124,6 @@
 </p>
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uptomaster&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=1E3A8A&point=DC2626&area=true&hide_border=false&border_color=1E3A8A&radius=12" width="95%"/>
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/uptomaster"/>
