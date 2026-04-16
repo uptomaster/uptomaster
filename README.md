@@ -94,24 +94,59 @@
 
 <div align="center">
 
-| 🚀 프로젝트 | 설명 | 링크 |
+### 🧩 Team Projects (기획 ~ 개발 / 네트워크 & 보안 컨설팅)
+
+| 🚀 프로젝트 | 역할 / 핵심 내용 | 링크 |
 |:---|:---|:---:|
-| 🌐 **Portfolio Site** | 개발 · 인프라 · 보안 프로젝트 경험 및 이력 정리 | [![Site](https://img.shields.io/badge/Visit-1E3A8A?style=flat-square&logo=github-pages&logoColor=white)](https://uptomaster.github.io/Portfolio/) |
-| 📒 **ProofyLife** | 개인 기록 · 포트폴리오 기록 공간 | [![Site](https://img.shields.io/badge/Visit-0D9488?style=flat-square&logoColor=white)](https://proofylife.com) |
-| ✍️ **Tech Blog** | 개발 · 서버 · 보안 학습 기록 (Naver) | [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://m.blog.naver.com/hilnh__/) |
-| 🍱 **밥세권** | 소상공인 재고 최적화 및 가성비 픽업 서비스 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/EAT_IT_Portfolio.pdf) |
-| 🏫 **YIT** | 가상 대학교 '역삼공과대학교' 인프라 · 네트워크 설계 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/sun-project.pdf) |
-| 🛡️ **팀 푸드파이터** | 인프라 재구축 · 보안컨설팅 · 모의해킹 프로젝트 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/foodfighter_presentation.pdf) |
-| 🔖 **Bookmarker** | 로그인 기반 개인 북마크 관리 서비스 (PHP / MySQL) | [![Site](https://img.shields.io/badge/Visit-7C3AED?style=flat-square&logoColor=white)](https://bookmarker929.dothome.co.kr/bookmarker/) |
-| ⏳ **FutureBox** | 미래의 나에게 보내는 타임캡슐 서비스 | [![Site](https://img.shields.io/badge/Visit-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://futurebox-beta.vercel.app/) |
-| 🐻 **FortuneBear** | Node.js 기반 오늘의 운세 실험 프로젝트 | [![Site](https://img.shields.io/badge/Visit-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://fortunebear.vercel.app/) |
-| 🎬 **IndieFilm** `진행중` | 인디 영화 제작사 · 배우 · 장소 대여자 플랫폼 | [![Site](https://img.shields.io/badge/WIP-F59E0B?style=flat-square&logo=vercel&logoColor=white)](https://indiefilm.vercel.app/) |
-| 📅 **공강픽 (Pick!)** `진행중` | 공강 시간 활용 큐레이션 서비스 | ![WIP](https://img.shields.io/badge/Coming%20Soon-6B7280?style=flat-square) |
-| ⛓️ **GoalChain** `진행중` | 목표 달성 체인 관리 서비스 | [![Site](https://img.shields.io/badge/WIP-F59E0B?style=flat-square&logo=vercel&logoColor=white)](https://goal-chain-one.vercel.app/) |
+| 🍱 **밥세권** | 소상공인 재고 최적화 · 가성비 픽업 서비스 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/EAT_IT_Portfolio.pdf) |
+| 🏫 **YIT** | 가상 대학교 인프라 · 네트워크 설계 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/sun-project.pdf) |
+| 🛡️ **팀 푸드파이터** | 인프라 재구축 · 보안 컨설팅 · 모의해킹 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/foodfighter_presentation.pdf) |
 
 </div>
 
 <br/>
+
+<div align="center">
+
+### 🧑‍💻 Personal Projects (개인 구축 · 서비스 중심)
+
+| 🚀 프로젝트 | 설명 | 링크 |
+|:---|:---|:---:|
+| 📒 **ProofyLife** | 개인 기록 · 포트폴리오 기록 플랫폼 | [![Site](https://img.shields.io/badge/Visit-0D9488?style=flat-square&logoColor=white)](https://proofylife.com) |
+| 🔖 **Bookmarker** | 로그인 기반 북마크 관리 서비스 | [![Site](https://img.shields.io/badge/Visit-7C3AED?style=flat-square&logoColor=white)](https://bookmarker929.dothome.co.kr/bookmarker/) |
+| ⏳ **FutureBox** | 미래의 나에게 보내는 타임캡슐 서비스 | [![Site](https://img.shields.io/badge/Visit-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://futurebox-beta.vercel.app/) |
+| 🐻 **FortuneBear** | Node.js 기반 운세 실험 프로젝트 | [![Site](https://img.shields.io/badge/Visit-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://fortunebear.vercel.app/) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚧 In Progress (진행 중 프로젝트)
+
+| 🚀 프로젝트 | 설명 | 링크 |
+|:---|:---|:---:|
+| 🎬 **IndieFilm** | 인디 영화 통합 플랫폼 | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
+| 🧠 **HALO (열흘)** | 부모님께 다가가는 시간 | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
+| ⚡ **SMITE** | 증강 칼바람 기반 픽 추천 · 데이터 스코어링 시스템 | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
+
+</div>
+
+---
+
+<br/>
+
+## 🔗 Portfolio & Content
+
+<div align="center">
+
+| 구분 | 설명 | 링크 |
+|:---|:---|:---:|
+| 🌐 **Portfolio Site** | 전체 프로젝트 · 인프라 · 보안 경험 정리 | [![Visit](https://img.shields.io/badge/Visit-1E3A8A?style=for-the-badge&logo=github-pages&logoColor=white)](https://uptomaster.github.io/Portfolio/) |
+| ✍️ **Tech Blog** | 개발 · 서버 · 보안 학습 기록 | [![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://m.blog.naver.com/hilnh__/) |
+
+</div>
 
 ---
 
