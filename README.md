@@ -129,7 +129,7 @@
 |:---|:---|:---:|
 | 🎬 **IndieFilm** | 인디 영화 통합 플랫폼 | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
 | 🧠 **HALO (열흘)** | 부모님께 다가가는 시간 | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
-| ⚡ **SMITE** | 증강 칼바람 기반 픽 추천 · 데이터 스코어링 시스템 | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
+| ⚡ **SMITE** | 픽 추천 · 데이터 스코어링 시스템 | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
 
 </div>
 
