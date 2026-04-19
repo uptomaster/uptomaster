@@ -101,7 +101,7 @@
 | 🍱 **밥세권** | 소상공인 재고 최적화 · 가성비 픽업 서비스 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/EAT_IT_Portfolio.pdf) |
 | 🏫 **YIT** | 가상 대학교 인프라 · 네트워크 설계 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/sun-project.pdf) |
 | 🛡️ **팀 푸드파이터** | 인프라 재구축 · 보안 컨설팅 · 모의해킹 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/foodfighter_presentation.pdf) |
-
+| 🎓 **QuizAI** | **Frontend** · AI 실시간 퀴즈 및 학습 분석 | [https://github.com/uptomaster/quizai-FE](https://github.com/uptomaster/quizai-FE) |
 </div>
 
 <br/>
