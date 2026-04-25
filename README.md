@@ -107,16 +107,14 @@
 <br/>
 
 <div align="center">
-
 ### 🧑‍💻 Personal Projects (개인 구축 · 서비스 중심)
-
 | 🚀 프로젝트 | 설명 | 링크 |
 |:---|:---|:---:|
 | 📒 **ProofyLife** | 개인 기록 · 포트폴리오 기록 플랫폼 | [![Site](https://img.shields.io/badge/Visit-0D9488?style=flat-square&logoColor=white)](https://proofylife.com) |
 | 🔖 **Bookmarker** | 로그인 기반 북마크 관리 서비스 | [![Site](https://img.shields.io/badge/Visit-7C3AED?style=flat-square&logoColor=white)](https://bookmarker929.dothome.co.kr/bookmarker/) |
 | ⏳ **FutureBox** | 미래의 나에게 보내는 타임캡슐 서비스 | [![Site](https://img.shields.io/badge/Visit-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://futurebox-beta.vercel.app/) |
 | 🐻 **FortuneBear** | Node.js 기반 운세 실험 프로젝트 | [![Site](https://img.shields.io/badge/Visit-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://fortunebear.vercel.app/) |
-
+| 🌸 **CustomQR** | 계절 테마 3D 나무 실루엣 · 평면 QR 생성 및 PNG 내보내기 | [![Site](https://img.shields.io/badge/Visit-EC4899?style=flat-square&logoColor=white)]([https://uptomaster.github.io/CustomQR/](https://custom-qr-blond.vercel.app/)) |
 </div>
 
 <br/>
