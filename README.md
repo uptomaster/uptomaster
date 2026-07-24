@@ -43,9 +43,10 @@
 ![JSP/Servlet](https://img.shields.io/badge/JSP%20%2F%20Servlet-475569?style=for-the-badge&logoColor=white)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=000000)
 
 ### Database
 ![Oracle](https://img.shields.io/badge/Oracle-DC2626?style=for-the-badge&logo=oracle&logoColor=white)
@@ -102,6 +103,7 @@
 | 🏫 **YIT** | 가상 대학교 인프라 · 네트워크 설계 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/sun-project.pdf) |
 | 🛡️ **팀 푸드파이터** | 인프라 재구축 · 보안 컨설팅 · 모의해킹 | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/foodfighter_presentation.pdf) |
 | 🎓 **QuizAI** | **Frontend** · AI 실시간 퀴즈 및 학습 분석 | [![Site](https://img.shields.io/badge/Repo-EC4899?style=flat-square&logoColor=white)](https://github.com/uptomaster/quizai-FE) |
+| 💧 **물꼬 (MulKko)** | **Frontend** · 실시간 교육 질문 플랫폼 · 멋쟁이사자처럼 애거돈 **🥇 1위** | [![Repo](https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutsa-OpenLearning/MULKKO-FE) |
 </div>
 
 <br/>
