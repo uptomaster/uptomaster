@@ -108,7 +108,7 @@
 | <img src="images/quizai.png" width="64"><br><b>QuizAI</b> | Team (3) | Frontend | AI 기반 실시간 퀴즈 및 학습 분석 서비스 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-EC4899?style=flat-square&logo=github&logoColor=white)](https://github.com/uptomaster/quizai-FE) |
 | <img src="images/mulkko.png" width="64"><br><b>물꼬</b> | Team (5) | Frontend | 실시간 교육 질문 플랫폼·멋쟁이사자처럼 애거돈 🥇1위 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutsa-OpenLearning/MULKKO-FE) |
 | <img src="images/halo.png" width="64"><br><b>HALO</b> | Team (10) | Plan·PM | 스토리북을 통해 부모님의 취향과 삶을 알아가고, 일상 속 작은 효도를 꾸준히 실천할 수 있도록 돕는 가족 관계 서비스 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
-| <img src="images/indiefilm.png" width="64"><br><b>IndieFilm</b> | Team(3) | Plan·PM | 인디 영화 제작 및 활영 통합 플랫폼 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
+| <img src="images/indiefilm.png" width="64"><br><b>IndieFilm</b> | Team(3) | Full Stack·PM | 인디 영화 제작 및 활영 통합 플랫폼 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
 
 </div>
 
