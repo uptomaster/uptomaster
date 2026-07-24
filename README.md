@@ -24,8 +24,8 @@
 ## 🧑‍💻 About Me
 
 > **기능을 구현하는 것에서 끝나지 않고,**
-> 그 기능이 **운영 환경에서 어떻게 동작하고 유지되는지**를 함께 고민하며 프로젝트를 진행해 왔습니다.
-
+> 그 기능이 **운영 환경에서 어떻게 동작하고 유지되는지**를 함께 고민하며 프로젝트를 진행해 왔습니다.<br>
+> 현재 **홍익대학교 컴퓨터공학과 3학년 재학 중**이며 웹 개발, 웹 보안, 네트워크, 서버, 기획자 등 다양한 프로젝트를 진행하며 견문을 넓히는 중입니다.
 
 <br/>
 
@@ -100,15 +100,15 @@
 | <img src="images/eatit.png" width="64"><br><b>밥세권</b> | Team (5) | Full Stack | 소상공인 재고 최적화 · 가성비 픽업 서비스 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/EAT_IT_Portfolio.pdf) |
 | <img src="images/yit.png" width="64"><br><b>YIT</b> | Team (6) | Linux(Network)·PM | 가상 대학교 인프라 · 네트워크 설계 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/sun-project.pdf) |
 | <img src="images/foodfighter.png" width="64"><br><b>푸드파이터</b> | Team (6) | Linux(Security) | 인프라 재구축 · 보안 컨설팅 · 모의해킹 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![PDF](https://img.shields.io/badge/PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](docs/foodfighter_presentation.pdf) |
-| <img src="images/proofylife.jpg" width="64"><br><b>ProofyLife</b> | Solo | Full Stack | 개인 기록 · 포트폴리오 기록 플랫폼 | ![서버종료](https://img.shields.io/badge/Archived-6B7280?style=flat-square) | - |
-| <img src="images/bookmarker.png" width="64"><br><b>Bookmarker</b> | Solo | Full Stack | 로그인 기반 북마크 관리 서비스 | ![서버종료](https://img.shields.io/badge/Archived-6B7280?style=flat-square) | - |
+| <img src="images/proofylife.jpg" width="64"><br><b>ProofyLife</b> | Solo | Full Stack | 개인 기록 · 포트폴리오 기록 플랫폼 | ![서버종료](https://img.shields.io/badge/Archived-6B7280?style=flat-square) | 서버종료 |
+| <img src="images/bookmarker.png" width="64"><br><b>Bookmarker</b> | Solo | Full Stack | PHP 및 FTP 활용 로그인 기반 북마크 관리 서비스 | ![서버종료](https://img.shields.io/badge/Archived-6B7280?style=flat-square) | 서버종료 |
 | <img src="images/futurebox.png" width="64"><br><b>FutureBox</b> | Solo | Full Stack | 미래의 나에게 보내는 타임캡슐 서비스 | ![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square) | [![Visit](https://img.shields.io/badge/Visit-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://futurebox-beta.vercel.app/) |
 | <img src="images/fortunebear.png" width="64"><br><b>FortuneBear</b> | Solo | Full Stack | Node.js 기반 운세 실험 프로젝트 | ![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square) | [![Visit](https://img.shields.io/badge/Visit-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://fortunebear.vercel.app/) |
 | <img src="images/customqr.png" width="64"><br><b>CustomQR</b> | Solo | Full Stack | 계절 테마 3D QR 생성 및 PNG 내보내기 | ![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square) | [![Visit](https://img.shields.io/badge/Visit-EC4899?style=flat-square&logoColor=white)](https://custom-qr-blond.vercel.app/) |
-| <img src="images/quizai.png" width="64"><br><b>QuizAI</b> | Team (3) | Frontend | AI 기반 실시간 퀴즈 및 학습 분석 서비스 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-EC4899?style=flat-square&logo=github&logoColor=white)](https://github.com/uptomaster/quizai-FE) |
-| <img src="images/mulkko.png" width="64"><br><b>물꼬</b> | Team (5) | Frontend | 실시간 교육 질문 플랫폼·멋쟁이사자처럼 애거돈 🥇1위 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutsa-OpenLearning/MULKKO-FE) |
+| <img src="images/quizai.png" width="64"><br><b>QuizAI</b> | Team (3) | Frontend | AI 기반 실시간 퀴즈 및 학습 분석 서비스 · KIT 공모전 출품 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-EC4899?style=flat-square&logo=github&logoColor=white)](https://github.com/uptomaster/quizai-FE) |
+| <img src="images/mulkko.png" width="64"><br><b>물꼬</b> | Team (5) | Frontend | 실시간 교육 질문 플랫폼 · 멋쟁이사자처럼 애거돈 🥇1위 | ![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutsa-OpenLearning/MULKKO-FE) |
 | <img src="images/halo.png" width="64"><br><b>HALO</b> | Team (10) | Plan·PM | 스토리북을 통해 부모님의 취향과 삶을 알아가고, 일상 속 작은 효도를 꾸준히 실천할 수 있도록 돕는 가족 관계 서비스 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
-| <img src="images/indiefilm.png" width="64"><br><b>IndieFilm</b> | Team(3) | Plan·PM | 인디 영화 제작 및 활영 통합 플랫폼 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
+| <img src="images/indiefilm.png" width="64"><br><b>IndieFilm</b> | Team(3) | Full Stack·PM | 인디 영화 제작 및 활영 통합 플랫폼 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
 
 </div>
 
