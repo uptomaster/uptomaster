@@ -109,7 +109,6 @@
 | <img src="images/customqr.png" width="64"><br><b>CustomQR</b> | Solo | Full Stack | 계절 테마 3D QR 생성 및 PNG 내보내기 | ![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square) | [![Visit](https://img.shields.io/badge/Visit-EC4899?style=flat-square&logoColor=white)](https://custom-qr-blond.vercel.app/) |
 | <img src="images/halo.png" width="64"><br><b>HALO</b> | Team (9) | Plan·PM | 부모님의 취향과 삶을 알아가고, 일상 속 작은 효도를 꾸준히 실천할 수 있도록 돕는 가족 관계 서비스 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
 | <img src="images/indiefilm.png" width="64"><br><b>IndieFilm</b> | Team(3) | Plan·PM | 인디 영화 제작 및 활영 통합 플랫폼 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
-| <img src="images/smite.png" width="64"><br><b>SMITE</b> | Team (3) | Full Stack | 게임 픽 추천 · 데이터 스코어링 시스템 | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) | ![WIP](https://img.shields.io/badge/WIP-6B7280?style=flat-square) |
 
 </div>
 
