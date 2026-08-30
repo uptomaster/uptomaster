@@ -34,18 +34,24 @@
 
 **Infrastructure · Security**   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/CentOS_7-932279?style=for-the-badge&logo=centos&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="27"/>
 
-**Deployment · Collaboration**   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" height="27"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white" height="27"/>
-
+**Deployment · Collaboration** &nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" height="27"/>
+<img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="27"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="27"/>
 ---
 
 ## 📜 Certifications
 
-<img src="https://img.shields.io/badge/SQLD-2563EB?style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/Linux_Master_Level_2-059669?style=for-the-badge&logo=linux&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/Network_Administrator_Level_2-475569?style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/AI--900-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/DP--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="27"/>
+**Database**   <img src="https://img.shields.io/badge/SQLD-SQL_Developer-2563EB?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
+
+**System · Network**   <img src="https://img.shields.io/badge/Linux_Master-Level_2-059669?style=for-the-badge&logo=linux&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Network_Administrator-Level_2-475569?style=for-the-badge&logo=cisco&logoColor=white" height="28"/>
+
+**Microsoft Fundamentals**   <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-8661C5?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/>
 
 ---
 
