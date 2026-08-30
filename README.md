@@ -161,7 +161,7 @@
 
 밥세권 서비스를 기반으로 실제 운영 환경을 가정해 서버 인프라를 재구축하고 보안 취약점을 점검했습니다.
 
-* Rocky Linux 기반 WEB · MAIL · SFTP 서버 구축
+* Rocky Linux 기반 Backup(전체/증분 백업), MAIL(SMTP/IMAP/POP3 프로토콜), SFTP(보안 파일 전송), DB 서버 구축
 * 본사 · 지사 분리 인프라 구성
 * 서버 보안 설정 및 취약점 개선
 * Kali Linux · Burp Suite · sqlmap 기반 모의해킹
