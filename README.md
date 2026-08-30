@@ -223,18 +223,7 @@
 
 <br/>
 
-<a href="https://fortunebear.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/>
-</a>
 
-</details>
-
-<details>
-<summary><b>CustomQR</b> — 계절 테마와 3D 요소를 활용한 커스텀 QR 생성 서비스</summary>
-
-<br/>
-
-<img src="images/customqr.png" width="58">
 
 **Solo · Frontend**
 
