@@ -309,7 +309,7 @@
 
 <img src="images/halo.png" width="64">
 
-**1기 Team 10 · 2기 Team 11 · PM / Team Lead**
+**1기 Team 10명, 2기 Team 11명 · PM / Team Lead**
 
 스토리북을 통해 부모님의 취향과 삶을 알아가고 함께한 일상을 기록하는 Android 가족 관계 서비스입니다.
 
@@ -318,7 +318,7 @@
 <img src="https://img.shields.io/badge/PM_%C2%B7_Team_Lead-FF7B10?style=flat-square"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-**1기 · 기획 → 개발 → 출시**
+**1기 : 기획 → 개발 → 출시**
 
 * 서비스 문제 · 타겟 · 컨셉 및 IA 설계
 * 스토리북 · 캘린더 · 테마함 등 핵심 기능 및 정책 기획
@@ -326,7 +326,7 @@
 * MVP · 일정 · QA 관리
 * 데모데이 운영 및 Google Play 정식 출시
 
-**2기 · 운영 → 고도화**
+**2기 : 운영 → 고도화**
 
 * 출시 이후 기존 기능 안정화 및 인수인계
 * Product · Design · Android · Server 운영 체계 재정비
