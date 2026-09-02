@@ -26,32 +26,25 @@
 
 ## 🛠 Tech Stack
 
-**Frontend**   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="27"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" height="27"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="27"/>
+**Frontend**   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="27"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" height="27"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="27"/>
 
-**Backend**   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-475569?style=for-the-badge" height="27"/>
+**Backend**   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-475569?style=for-the-badge" height="27"/>
 
-**Database**   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="27"/>
+**Database**   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="27"/>
 
-**Infrastructure · Security**   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/CentOS_7-932279?style=for-the-badge&logo=centos&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="27"/>
+**Infrastructure · Security**   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/CentOS_7-932279?style=for-the-badge&logo=centos&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="27"/>
 
-**Deployment · Collaboration** &nbsp;
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" height="27"/>
-<img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="27"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="27"/>
+**Deployment · Collaboration**   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" height="27"/> <img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="27"/>
+
 ---
 
 ## 📜 Certifications
 
-**Database**   <img src="https://img.shields.io/badge/SQLD-SQL_Developer-2563EB?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
+**Database**   <img src="https://img.shields.io/badge/SQLD-SQL_Developer-2563EB?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
 
-**System · Network**   <img src="https://img.shields.io/badge/Linux_Master-Level_2-059669?style=for-the-badge&logo=linux&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Network_Administrator-Level_2-475569?style=for-the-badge&logo=cisco&logoColor=white" height="28"/>
+**System · Network**   <img src="https://img.shields.io/badge/Linux_Master-Level_2-059669?style=for-the-badge&logo=linux&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Network_Administrator-Level_2-475569?style=for-the-badge&logo=cisco&logoColor=white" height="28"/>
 
-**Microsoft Fundamentals**   <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-8661C5?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/>
+**Microsoft Fundamentals**   <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-8661C5?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/>
 
 ---
 
@@ -75,26 +68,6 @@
 * FTP 환경을 활용한 직접 배포
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Server_Closed-6B7280?style=flat-square"/>
-
-</details>
-
-<details>
-<summary><b>ProofyLife</b> — 개인 활동과 프로젝트를 기록하는 포트폴리오 플랫폼</summary>
-
-<br/>
-
-<img src="images/proofylife.jpg" width="120">
-
-**Solo · Full Stack**
-
-개인 프로젝트와 활동 과정을 직접 기록하고 관리하기 위해 제작한 웹 서비스입니다.
-
-* 개인 활동 및 프로젝트 기록 구조 설계
-* 웹 서비스 및 데이터 관리 기능 구축
-* 직접 서버에 배포하고 실제 기록 플랫폼으로 활용
-
-<img src="https://img.shields.io/badge/Full_Stack-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Server_Closed-6B7280?style=flat-square"/>
 
 </details>
@@ -227,24 +200,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=flat-square&logo=openai&logoColor=white"/>
 
-<br/>
-
-
-
-**Solo · Frontend**
-
-일반적인 QR 코드 생성 기능에 계절별 테마와 3D 표현을 결합한 웹 프로젝트입니다.
-
-* QR 생성 기능 구현
-* 계절별 3D 비주얼 구성
-* 생성 결과 PNG 내보내기 기능 개발
-
-<br/>
-
-<a href="https://custom-qr-blond.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/>
-</a>
-
 </details>
 
 <details>
@@ -279,7 +234,13 @@
 
 <br/>
 
-<img src="images/mulkko.png" width="120">
+<img src="images/mulkkoThumb.png" width="100%">
+
+<br/>
+
+<img src="images/mulkkoThumb2.png" width="100%">
+
+<br/>
 
 **Team 5 · Frontend**
 
@@ -307,7 +268,9 @@
 
 <br/>
 
-<img src="images/halo.png" width="120">
+<img src="images/halo.png" width="100%">
+
+<br/>
 
 **1기 Team 10명, 2기 Team 11명 · PM / Team Lead**
 
@@ -357,7 +320,15 @@
 
 <br/>
 
-<img src="images/IRDeck.png" width="120">
+<img src="images/IRDeck.png" width="100%">
+
+<br/><br/>
+
+<div align="center">
+  <img src="images/noddi_award.jpg" width="360">
+</div>
+
+<br/>
 
 **Team 5 · Frontend**
 
@@ -371,7 +342,7 @@
 
 **Result**
 
-**총 60개 팀 중 15개 팀에 선발되어 트랙 진출**
+**총 60개 팀 중 15개 팀에 선발되어 트랙 입상**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Daily.co-7C3AED?style=flat-square"/>
