@@ -150,6 +150,38 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Security-DC2626?style=flat-square"/>
 
+<br/><br/>
+
+<div align="center">
+
+<img src="images/foodfight1.png" width="32%">
+<img src="images/foodfight2.png" width="32%">
+<img src="images/foodfight3.png" width="32%">
+
+<br/>
+
+<img src="images/foodfight4.png" width="32%">
+<img src="images/foodfight5.png" width="32%">
+<img src="images/foodfight6.png" width="32%">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="images/foodfight_safe1.png" width="32%">
+<img src="images/foodfight_safe2.png" width="32%">
+<img src="images/foodfight_safe3.png" width="32%">
+
+<br/>
+
+<img src="images/foodfight_safe4.png" width="32%">
+<img src="images/foodfight_safe5.png" width="32%">
+<img src="images/foodfight_safe6.png" width="32%">
+
+</div>
+
 <br/>
 
 <a href="docs/foodfighter_presentation.pdf">
@@ -271,6 +303,7 @@
 <div align="center">
   <img src="images/halodeck.png" width="65%">
 </div>
+
 <br/>
 
 **1기 Team 10명, 2기 Team 11명 · PM / Team Lead**
@@ -324,22 +357,22 @@
 <div align="center">
 
 <img src="images/IRDeck.png" width="49%">
+<img src="images/IRDeck1.png" width="49%">
+
+<br/>
+
 <img src="images/IRDeck2.png" width="49%">
-
-<br/>
-
 <img src="images/IRDeck3.png" width="49%">
+
+<br/>
+
 <img src="images/IRDeck4.png" width="49%">
-
-<br/>
-
 <img src="images/IRDeck5.png" width="49%">
-<img src="images/IRDeck6.png" width="49%">
 
 <br/>
 
+<img src="images/IRDeck6.png" width="49%">
 <img src="images/IRDeck7.png" width="49%">
-<img src="images/IRDeck8.png" width="49%">
 
 </div>
 
