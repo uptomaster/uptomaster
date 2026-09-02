@@ -268,8 +268,9 @@
 
 <br/>
 
-<img src="images/halo.png" width="100%">
-
+<div align="center">
+  <img src="images/halodeck.png" width="65%">
+</div>
 <br/>
 
 **1기 Team 10명, 2기 Team 11명 · PM / Team Lead**
@@ -320,9 +321,29 @@
 
 <br/>
 
-<img src="images/IRDeck.png" width="100%">
+<div align="center">
 
-<br/><br/>
+<img src="images/IRDeck.png" width="49%">
+<img src="images/IRDeck2.png" width="49%">
+
+<br/>
+
+<img src="images/IRDeck3.png" width="49%">
+<img src="images/IRDeck4.png" width="49%">
+
+<br/>
+
+<img src="images/IRDeck5.png" width="49%">
+<img src="images/IRDeck6.png" width="49%">
+
+<br/>
+
+<img src="images/IRDeck7.png" width="49%">
+<img src="images/IRDeck8.png" width="49%">
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="images/noddi_award.jpg" width="360">
