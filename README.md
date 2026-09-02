@@ -357,7 +357,7 @@
 
 <br/>
 
-<img src="images/noddi.png" width="120">
+<img src="images/IRDeck.png" width="120">
 
 **Team 5 · Frontend**
 
