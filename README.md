@@ -475,22 +475,22 @@
 <div align="center">
 
 <img src="images/IRDeck.png" width="49%">
-<img src="images/IRDeck1.png" width="49%">
-
-<br/>
-
 <img src="images/IRDeck2.png" width="49%">
+
+<br/>
+
 <img src="images/IRDeck3.png" width="49%">
-
-<br/>
-
 <img src="images/IRDeck4.png" width="49%">
-<img src="images/IRDeck5.png" width="49%">
 
 <br/>
 
+<img src="images/IRDeck5.png" width="49%">
 <img src="images/IRDeck6.png" width="49%">
+
+<br/>
+
 <img src="images/IRDeck7.png" width="49%">
+<img src="images/IRDeck8.png" width="49%">
 
 </div>
 
