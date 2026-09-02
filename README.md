@@ -123,6 +123,103 @@
 
 <br/>
 
+<details>
+<summary><b>기본 설명 · 서비스 흐름도 보기</b> — bap1 ~ bap8</summary>
+
+<br/>
+
+<div align="center">
+
+<img src="images/bap1.png" width="32%">
+<img src="images/bap2.png" width="32%">
+<img src="images/bap3.png" width="32%">
+
+<br/>
+
+<img src="images/bap4.png" width="32%">
+<img src="images/bap5.png" width="32%">
+<img src="images/bap6.png" width="32%">
+
+<br/>
+
+<img src="images/bap7.png" width="32%">
+<img src="images/bap8.png" width="32%">
+
+</div>
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>구매 흐름 구현 화면 보기</b> — bap9 ~ bap19</summary>
+
+<br/>
+
+<div align="center">
+
+<img src="images/bap9.png" width="32%">
+<img src="images/bap10.png" width="32%">
+<img src="images/bap11.png" width="32%">
+
+<br/>
+
+<img src="images/bap12.png" width="32%">
+<img src="images/bap13.png" width="32%">
+<img src="images/bap14.png" width="32%">
+
+<br/>
+
+<img src="images/bap15.png" width="32%">
+<img src="images/bap16.png" width="32%">
+<img src="images/bap17.png" width="32%">
+
+<br/>
+
+<img src="images/bap18.png" width="32%">
+<img src="images/bap19.png" width="32%">
+
+</div>
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>관리자 영역 보기</b> — bap20 ~ bap29</summary>
+
+<br/>
+
+<div align="center">
+
+<img src="images/bap20.png" width="32%">
+<img src="images/bap21.png" width="32%">
+<img src="images/bap22.png" width="32%">
+
+<br/>
+
+<img src="images/bap23.png" width="32%">
+<img src="images/bap24.png" width="32%">
+<img src="images/bap25.png" width="32%">
+
+<br/>
+
+<img src="images/bap26.png" width="32%">
+<img src="images/bap27.png" width="32%">
+<img src="images/bap28.png" width="32%">
+
+<br/>
+
+<img src="images/bap29.png" width="32%">
+
+</div>
+
+<br/>
+
+</details>
+
+<br/>
+
 <a href="docs/EAT_IT_Portfolio.pdf">
   <img src="https://img.shields.io/badge/PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="28"/>
 </a>
