@@ -64,7 +64,7 @@
 
 <br/>
 
-<img src="images/bookmarker.png" width="58">
+<img src="images/bookmarker.png" width="120">
 
 **Solo · Full Stack**
 
@@ -84,7 +84,7 @@
 
 <br/>
 
-<img src="images/proofylife.jpg" width="58">
+<img src="images/proofylife.jpg" width="120">
 
 **Solo · Full Stack**
 
@@ -104,7 +104,7 @@
 
 <br/>
 
-<img src="images/yit.png" width="58">
+<img src="images/yit.png" width="120">
 
 **Team 6 · Network / PM**
 
@@ -132,7 +132,7 @@
 
 <br/>
 
-<img src="images/eatit.png" width="58">
+<img src="images/eatit.png" width="120">
 
 **Team 5 · Full Stack**
 
@@ -161,7 +161,7 @@
 
 <br/>
 
-<img src="images/foodfighter.png" width="58">
+<img src="images/foodfighter.png" width="120">
 
 **Team 6 · Linux / Security**
 
@@ -190,7 +190,7 @@
 
 <br/>
 
-<img src="images/futurebox.png" width="58">
+<img src="images/futurebox.png" width="120">
 
 **Solo · Full Stack**
 
@@ -213,7 +213,7 @@
 
 <br/>
 
-<img src="images/fortunebear.png" width="58">
+<img src="images/fortunebear.png" width="120">
 
 **Solo · Full Stack**
 
@@ -252,7 +252,7 @@
 
 <br/>
 
-<img src="images/quizai.png" width="58">
+<img src="images/quizai.png" width="120">
 
 **Team 3 · Frontend**
 
@@ -279,7 +279,7 @@
 
 <br/>
 
-<img src="images/mulkko.png" width="58">
+<img src="images/mulkko.png" width="120">
 
 **Team 5 · Frontend**
 
@@ -307,7 +307,7 @@
 
 <br/>
 
-<img src="images/halo.png" width="64">
+<img src="images/halo.png" width="120">
 
 **1기 Team 10명, 2기 Team 11명 · PM / Team Lead**
 
@@ -357,7 +357,7 @@
 
 <br/>
 
-<img src="images/noddi.png" width="64">
+<img src="images/noddi.png" width="120">
 
 **Team 5 · Frontend**
 
@@ -394,7 +394,7 @@
 
 <br/>
 
-<img src="images/indiefilm.png" width="58">
+<img src="images/indiefilm.png" width="120">
 
 **Team 3 · Full Stack / PM**
 
