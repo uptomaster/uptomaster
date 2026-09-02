@@ -34,7 +34,7 @@
 
 **Infrastructure · Security**   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/CentOS_7-932279?style=for-the-badge&logo=centos&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="27"/>
 
-**Deployment · Collaboration**   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" height="27"/> <img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="27"/>
+**Deployment · Collaboration**   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" height="27"/> <img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="27"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="27"/>
 
 ---
 
@@ -123,8 +123,8 @@
 
 <br/>
 
-<details>
-<summary><b>기본 설명 · 서비스 흐름도 보기</b> — bap1 ~ bap8</summary>
+<details open>
+<summary><b>기본 설명 / 서비스 흐름도 보기</b>
 
 <br/>
 
@@ -152,7 +152,7 @@
 </details>
 
 <details>
-<summary><b>구매 흐름 구현 화면 보기</b> — bap9 ~ bap19</summary>
+<summary><b>구매 흐름 구현 화면 보기</b></summary>
 
 <br/>
 
@@ -186,7 +186,7 @@
 </details>
 
 <details>
-<summary><b>관리자 영역 보기</b> — bap20 ~ bap29</summary>
+<summary><b>관리자 영역 보기</b></summary>
 
 <br/>
 
@@ -363,11 +363,32 @@
 
 <br/>
 
-<img src="images/mulkkoThumb.png" width="100%">
+<div align="center">
+
+<img src="images/mulkkoThumb.png" width="49%">
+<img src="images/mulkkoThumb2.png" width="49%">
 
 <br/>
 
-<img src="images/mulkkoThumb2.png" width="100%">
+<img src="images/mulkkoThumb3.png" width="49%">
+<img src="images/mulkkoThumb4.png" width="49%">
+
+<br/>
+
+<img src="images/mulkkoThumb5.png" width="49%">
+<img src="images/mulkkoThumb6.png" width="49%">
+
+<br/>
+
+<img src="images/mulkkoThumb7.png" width="49%">
+<img src="images/mulkkoThumb8.png" width="49%">
+
+<br/>
+
+<img src="images/mulkkoThumb9.png" width="49%">
+<img src="images/mulkkoThumb10.png" width="49%">
+
+</div>
 
 <br/>
 
