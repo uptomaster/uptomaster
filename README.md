@@ -438,8 +438,12 @@
 * 서비스 문제 · 타겟 · 컨셉 및 IA 설계
 * 스토리북 · 캘린더 · 테마함 등 핵심 기능 및 정책 기획
 * 기능명세서 작성 및 Design · Android · Server 협업
-* MVP · 일정 · QA 관리
+* MVP · 일정 · QA 관리 · 사업자등록
 * 데모데이 운영 및 Google Play 정식 출시
+
+<div align="center">
+  <img src="images/umc_plan.png" width="520" alt="UMC PLAN 수료증">
+</div>
 
 **2기 : 운영 → 고도화**
 
