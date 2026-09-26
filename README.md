@@ -420,7 +420,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>HALO</b> — 부모님과의 관계를 하루 한 장의 이야기로 이어가는 가족 관계 서비스</summary>
 
 <br/>
